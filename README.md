@@ -1,6 +1,6 @@
 ## About
 
-Tenable's Nessus UI assessment.
+Tenable's Nessus UI assessment.  
 This web app serves data and displays results using jQuery
 
 ## To run app
