@@ -1,0 +1,14 @@
+{
+  "name": "tenable",
+  "version": "1.0.0",
+  "description": "small web app serving json and display results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharon Choe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}

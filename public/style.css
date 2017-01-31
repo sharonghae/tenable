@@ -1,0 +1,16 @@
+body {
+    margin-top: 50px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.submit {
+    float: left;
+}
+
+.search {
+    float: right;
+}
